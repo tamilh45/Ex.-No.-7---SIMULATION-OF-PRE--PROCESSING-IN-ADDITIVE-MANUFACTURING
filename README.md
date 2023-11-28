@@ -44,9 +44,14 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Screenshot 2023-11-28 104617](https://github.com/tamilh45/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150312761/320eace1-2d45-459c-bcb4-017b95739d94)
+![Screenshot 2023-11-28 104644](https://github.com/tamilh45/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150312761/0ebaad8c-ea95-4154-b171-63f8af338060)
+![Screenshot 2023-11-28 104731](https://github.com/tamilh45/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150312761/ae184801-1255-4bec-bba1-15913b942cee)
+![Screenshot 2023-11-28 104755](https://github.com/tamilh45/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150312761/5f90af5e-2d01-4cf8-9cd5-39829eec484e)
 
-### Name:
-### Register Number:
+
+### Name: TAMIL PAVALAN M
+### Register Number: 23013740
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.

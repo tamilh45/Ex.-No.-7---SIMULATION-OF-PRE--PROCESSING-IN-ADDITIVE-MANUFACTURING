@@ -50,8 +50,8 @@
 ![Screenshot 2023-11-28 104755](https://github.com/tamilh45/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150312761/5f90af5e-2d01-4cf8-9cd5-39829eec484e)
 
 
-### Name: TAMIL PAVALAN M
-### Register Number: 23013740
+### Name: SIVAKUMAR R
+### Register Number: 23013501
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
